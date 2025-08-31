@@ -7,7 +7,7 @@
 
 👋 About Me
 
-Hi! I'm César Miguel Aguirre Calzadilla, a Physicist passionate about Machine Learning, Deep Learning, and Artificial Intelligence, currently pursuing a Master’s in Statistical Computing at CIMAT Monterrey
+Hi! I'm César Aguirre, a Physicist passionate about Machine Learning, Deep Learning, and Artificial Intelligence, currently pursuing a Master’s in Statistical Computing at CIMAT Monterrey
 .
 
 🎓 M.Sc. Statistical Computing (2024–2026) – CIMAT, Monterrey
