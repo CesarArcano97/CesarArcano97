@@ -18,7 +18,17 @@ My interests lie in Statistical Inference, Optimization, NLP, Computer Vision, M
 
 
 🛠️ Languages & Tools
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="90" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/1920px-Sql_data_base_with_logo.svg.png" width="90" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="90"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90" height="50"/> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50"/> </p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="90" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/1920px-Sql_data_base_with_logo.svg.png" width="90" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="90"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90" height="50"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/SCIPY_2.svg/100px-SCIPY_2.svg.png" width="50" height="50"/>
+</p>
 
 ## 🌍 Activities & Recognitions  
 
