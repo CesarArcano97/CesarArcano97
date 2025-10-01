@@ -28,6 +28,9 @@ My interests lie in Statistical Inference, Optimization, NLP, Computer Vision, M
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90" height="50"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/1024px-SCIPY_2.svg.png" width="50" height="50"/>
+  <br> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/OpenMP_logo.png" width="140" height="140"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/NVIDIA_logo.svg/1920px-NVIDIA_logo.svg.png" width="150" height="150"/>
 </p>
 
 ## 🌍 Activities & Recognitions  
