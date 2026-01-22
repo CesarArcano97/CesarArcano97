@@ -33,8 +33,12 @@ My interests lie in Statistical Inference, Optimization, NLP, Computer Vision, M
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/NVIDIA_logo.svg/1920px-NVIDIA_logo.svg.png" width="150" height="150"/>
 </p>
 
-## 🌍 Activities & Recognitions  
+## Activities & Recognitions  
 
+- 👨‍🏫 **Teaching Assistant** at CIMAT (Jan 2026 – Present).
+  - Courses: **Data Science** & **Programming and Algorithm Analysis**.
+- 🎤 **Selected Speaker – 58th National Congress of the SMM (Oct 2025)**.
+  - Presented: *"Language Models and Deep Learning for Sentiment Analysis in Spanish"*.
 - 🔬 **Research Assistant** at CIMAT – Data reduction & clustering.  
 - 🏅 **Honorable Mention – Rest-Mex 2025 (International Rest-Mex Forum)**  
   - *Sentiment Analysis on Magical Towns* (ranked **7th/70 teams**).  
@@ -42,11 +46,20 @@ My interests lie in Statistical Inference, Optimization, NLP, Computer Vision, M
   - Innovative applications of data science in industry challenges.  
 - 🧭 **Workshop Speaker – 1st International Congress on Artificial Intelligence (UNAM, 2025)**  
   - *Astronomy and Deep Learning: Identifying extragalactic objects.*
-- 🎤 **Speaker** at *La Noche de las Estrellas 2023* – AI & Astronomy outreach. 
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects
+
+- 🎵 **Hybrid Two-Tower Architecture for Multimodal Music Recommendation (2025)** - Developed a **SOTA Late Fusion** system using **SASRec** for sequential modeling and a multimodal Item Tower.  
+  - Integrated **Audio (ResNet-18), Lyrics (mDeBERTa + LoRA), Vision, and Tabular metadata** using **InfoNCE loss**.  
+  - Managed MLOps lifecycle with **DVC and uv** for robust reproducibility.  
+  - Tools: **Python, PyTorch, Transformers, Computer Vision, MLOps**.
+
+- 📈 **Stochastic Modeling of Demand in Video Games (Steam) (2025)** - Developed a **SARIMAX dynamic regression model** to predict Concurrent Users (CCU) on the Steam platform.  
+  - Integrated **seasonal component analysis** and exogenous shocks (sales/updates) to quantify "Download Lag" in AAA titles.  
+  - Optimized infrastructure resource management and reduced operational risks.  
+  - Tools: **Python, Time Series, Statistical Modeling, Forecasting**.
 
 - ⚽ **Multivariate Analysis of Premier League Performance (2025)**  
   - Applied **factor analysis & MDS** to uncover hidden patterns in football analytics.  
@@ -67,7 +80,7 @@ My interests lie in Statistical Inference, Optimization, NLP, Computer Vision, M
 
 ---
 
-## 📫 Contact  
+## Contact  
 
 - ✉️ Email: **[cmac.medios97@gmail.com](mailto:cesar.aguirre@cimat.mx)**  
 - 💼 LinkedIn: [linkedin.com/in/cesar-ac](https://www.linkedin.com/in/cesar-ac)  
@@ -76,7 +89,7 @@ My interests lie in Statistical Inference, Optimization, NLP, Computer Vision, M
 ---
 
 <p align="center">
-✨ <i>“Our future is a race between the growing power of our technology and the wisdom with which we use it. Let’s make sure that wisdom wins.”</i> ✨  
+ <i>“Our future is a race between the growing power of our technology and the wisdom with which we use it. Let’s make sure that wisdom wins.”</i>   
 <br>— <b>Stephen Hawking</b>
 </p>
 
